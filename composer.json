@@ -1,0 +1,19 @@
+{
+    "name": "umd-lib/umd-libraries-drupal-devtools",
+    "type": "drupal-recipe",
+    "description": "Useful development tools for UMD libraries sites.",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/umd-lib/",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/umd-lib/",
+        "source": "https://github.com/umd-lib/"
+    },
+    "require": {
+        "drupal/vite_react_generator": "^1.0",
+        "drupal/devel": "^5.3",
+        "drupal/siteimprove": "^3.0"
+    }
+}
+

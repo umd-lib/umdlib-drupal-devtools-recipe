@@ -1,0 +1,8 @@
+name: 'Libraries Drupal Devtools'
+description: 'Useful development tools for our drupal sites.'
+type: module
+install:
+  - vite_react_generator
+  - devel
+  - siteimprove
+
