@@ -1,5 +1,5 @@
 {
-    "name": "umd-lib/umd-libraries-drupal-devtools",
+    "name": "umd-lib/umdlib-drupal-devtools",
     "type": "drupal-recipe",
     "description": "Useful development tools for UMD libraries sites.",
     "keywords": [
