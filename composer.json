@@ -12,8 +12,7 @@
     },
     "require": {
         "drupal/vite_react_generator": "^1.0",
-        "drupal/devel": "^5.3",
-        "drupal/siteimprove": "^3.0"
+        "drupal/devel": "^5.3"
     }
 }
 

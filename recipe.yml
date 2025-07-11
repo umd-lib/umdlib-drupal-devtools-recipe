@@ -4,5 +4,4 @@ type: module
 install:
   - vite_react_generator
   - devel
-  - siteimprove
 
