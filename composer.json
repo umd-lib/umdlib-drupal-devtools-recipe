@@ -11,7 +11,6 @@
         "source": "https://github.com/umd-lib/"
     },
     "require": {
-        "drupal/vite_react_generator": "^1.0",
         "drupal/devel": "^5.3"
     }
 }
